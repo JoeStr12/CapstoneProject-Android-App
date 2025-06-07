@@ -46,7 +46,7 @@ To run this Android application, you will need **Android Studio Arctic Fox (2020
 1.  **Clone the Repository:**
     Open your terminal or Git Bash and run the following command:
     ```bash
-    git clone [https://github.com/JoeStr12/CapstoneProject-Android-App.git](https://github.com/JoeStr12/CapstoneProject-Android-App.git)
+    git clone https://github.com/JoeStr12/CapstoneProject-Android-App.git
     ```
 
 2.  **Open in Android Studio:**
