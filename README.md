@@ -8,10 +8,7 @@
 * [How to Run the App](#how-to-run-the-app)
 * [Project Structure & Key Components](#project-structure--key-components)
 * [Technologies Used](#technologies-used)
-* [Learning & Challenges](#learning--challenges)
-* [Future Enhancements](#future-enhancements)
-* [License](#license)
-* [Contact](#contact)
+
 
 ---
 
